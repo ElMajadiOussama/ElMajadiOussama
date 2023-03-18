@@ -1,7 +1,7 @@
-<img align= "center" width="900" src="[https://eviltrout.com/extending/images/programming.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
+<img align= "center" width="1300" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">Hi 👋, I'm Oussama El Majadi</h1>
 <h3 align="center">A passionate programmer from Belgium</h3>
-<img align= "right" width="400" src="https://eviltrout.com/extending/images/programming.gif">
+<img align= "right" width="300" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmajadioussama&label=Profile%20views&color=0e75b6&style=flat" alt="elmajadioussama" /> </p>
 
